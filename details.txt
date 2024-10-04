@@ -1,0 +1,19 @@
+Task: Develop a note-taking web application using React.js that allows users to create, edit, delete, and organize notes.
+ 
+Requirements:
+ 
+1. Implement a user interface with options to view a list of notes, create new notes, and edit existing notes.
+ 
+2. Use local storage or a client-side database (e.g., IndexedDB) to store and manage notes locally in the browser.
+ 
+3. Allow users to add a title and content to each note.
+ 
+4. Provide options to organize notes by categories or tags.
+ 
+5. Implement basic CRUD (Create, Read, Update, Delete) operations for managing notes.
+ 
+6. Design the UI using React components and CSS for a modern and intuitive user experience.
+ 
+7. Ensure data integrity and handle edge cases such as empty notes or duplicate titles.
+ 
+8. Implement search functionality allowing users to search for specific notes based on keywords or titles.
